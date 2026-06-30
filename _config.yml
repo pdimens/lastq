@@ -3,6 +3,8 @@ description: An explanation of the platform-agnostic "standard" linked-read data
 theme: just-the-docs
 
 url: https://pdimens.github.io/lastq
+logo: "/assets/images/logo.png"
+favicon: "/assets/images/logo.png"
 
 aux_links:
   LASTQ Github: https://github.com/pdimens/lastq

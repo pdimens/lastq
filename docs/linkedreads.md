@@ -10,7 +10,7 @@ can be inferred as having originated from the same original DNA molecule. Differ
 If the sequences with the same barcode would map near the same genomic region during sequence alignment, we would know that 
 each of those reads originated from **a single DNA fragment from a single homologous chromosome from a single cell**, which is effectively **built-in phase information**.
 
-![](/static/linked_reads.png)
+![](../../assets/images/linked_reads.png)
 
 ### What do they look like?
 Linked-read sequence data appears as you might expect it, encoded in a FASTQ file. The first processing step of
@@ -22,7 +22,7 @@ is generally similar between non-10X linked-read technologies: a nucleotide barc
 the sequence line to the read header with some kind of platform-specific notation. The diagram below preserves the nucleotide
 barcode under the `OX:Z` tag and recodes it under `BX:Z` using the haplotagging "ACBD" segment format, however it would
 also be valid to just keep the nucleotide barcode under `BX:Z`. Linked-read software is variable in its flexibility towards barcode 
-formatting. ![10X linked read data before and after demultiplexing|750](/static/lr_conversion.png)
+formatting. ![10X linked read data before and after demultiplexing|750](/assets/images/lr_conversion.png)
 
 ### Linked-read varieties
 There are a handful of linked-read sample preparation methods, but that's largely an implementation detail. All of those methods are

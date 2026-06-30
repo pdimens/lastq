@@ -28,7 +28,7 @@ The navigation pane goes into more detail about these formats.
 | Standard     | `BX:Z` and `VX:i` tags | any      | `VX:i:0`         | `BX:Z:31_442_512 VX:i:1`           |
 
 ## Standard Format
-![](/static/lr_standard.png)
+![](../assets/images/lr_standard.png)
 - `BX:Z` tag to record the barcode, the format of which is irrelevant
   - it could be haplotagging `ACBD`, stLFR `1_2_3`, nucleotides, _whatever_
 - `VX:i` tag to record if the corresponding barcode is valid
