@@ -1,6 +1,6 @@
 ---
 title: stLFR
-layout: home
+layout: default
 ---
 
 # Single-Tuble Long Fragment Reads (stLFR)
@@ -10,7 +10,7 @@ made up for three 10bp segments which are at the end of the $R2$ read. Demultipl
 in the barcode being moved to the sequence ID using a pound (`#`) sign between the sequence ID and barcode, with
 the barcode recoded in the `1_2_3` format, where each segment is an integer.
 
-![stLFR FASTQ data format](/static/lr_stlfr.png)
+![](/static/lr_stlfr.png)
 
 - depending on the link sequence between segments, will be either the last 54bp or 42bp of the $R2$ read
   - 54 base barcode: 10+6+10+18+10

@@ -1,6 +1,7 @@
 ---
 title: Standard Format
 layout: home
+nav_order: 6
 ---
 
 # The standard linked-read data format
@@ -26,8 +27,8 @@ The navigation pane goes into more detail about these formats.
 | TELLseq      | end of sequence ID     | `:ATCG`  | `N`              | `@A003432423434:1:324:TTACCACGAGG` |
 | Standard     | `BX:Z` and `VX:i` tags | any      | `VX:i:0`         | `BX:Z:31_442_512 VX:i:1`           |
 
-## LASTQ Format
-!["Standard" linked-read FASTQ format](/static/lr_standard.png)
+## Standard Format
+![](/static/lr_standard.png)
 - `BX:Z` tag to record the barcode, the format of which is irrelevant
   - it could be haplotagging `ACBD`, stLFR `1_2_3`, nucleotides, _whatever_
 - `VX:i` tag to record if the corresponding barcode is valid
