@@ -1,0 +1,12 @@
+base_url = "https://pdimens/github.io/lastq"
+title = "Standard Linked-Read Format"
+theme = "tanuki"
+build_search_index = true
+
+[markdown]
+highlight_code = true
+highlight_theme = "css"
+
+[extra]
+mode = "docs"
+github = "https://github.com/pdimens/lastq"
