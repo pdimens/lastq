@@ -2,7 +2,7 @@ base_url = "https://pdimens.github.io/lastq/"
 title = "Standard Linked-Read Format"
 theme = "tanuki"
 build_search_index = true
-
+compile_sass = true
 
 [extra]
 mode = "docs"
