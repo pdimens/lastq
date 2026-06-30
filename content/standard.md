@@ -3,7 +3,7 @@ title= "Standard / LASTQ"
 weight= 1
 +++
  
-
+## A standardized platform-agnostic and future-proof format
 The Standard (LASTQ) format guarantees `BX:Z` and `VX:i` SAM tags that encode the barcode and it's
 validity. This format is universal and agnostic to all existing linked-read varieties and their particulars.
 It is 100% compliant with comment transfer during alignment and trivial to parse once in SAM format. 
