@@ -4,7 +4,7 @@ sort_by = "weight"
 template = "section.html"
 +++
 
-<img style="float: right;" alt="" src="/img/logo.png" />
+<img style="float: right;" alt="" src="img/logo.png" />
 
 Shortly after linked-read technology from 10X Genomics debuted in 2016, it was discontinued in 2019.
 Since then, new and improved methods (haplotagging, stLFR, TELLseq, etc.) have emerged, each with

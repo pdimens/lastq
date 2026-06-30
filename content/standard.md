@@ -3,7 +3,7 @@ title= "Standard / LASTQ"
 weight= 1
 +++
  
-![](/img/lr_standard.png)
+![](img/lr_standard.png)
 
 ## Specification
 - `BX:Z` tag to record the barcode, the format of which is irrelevant
