@@ -1,8 +1,8 @@
-title: LastQ - Standard Linked-Read Data Format
+title: LastQ
 description: An explanation of the platform-agnostic "standard" linked-read data format
 theme: just-the-docs
 
 url: https://pdimens.github.io/lastq
 
 aux_links:
-  Template Repository: https://github.com/pdimens/lastq
+  LastQ Github: https://github.com/pdimens/lastq
