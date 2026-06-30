@@ -3,11 +3,12 @@ title= "TELLseq"
 weight=6
 +++
 
+## Transposase Enzyme-Linked Long-read Sequencing
 One of the presently available commercial linked-read options. TELLseq data is very similar to 10X, except the
 barcode is 18bp long and contained in the `I1` read that Illumina provides with the standard `R1` and `R2` reads. The
 barcode gets appended in the read header using a colon (`:`).
 
-![](/img/lr_tellseq.png)
+{{ img(path="img/lr_tellseq.png") }}
 
 ## Specification
 
