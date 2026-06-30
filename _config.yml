@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: LastQ - Standard Linked-Read Data Format
+description: An explanation of the platform-agnostic "standard" linked-read data format
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://pdimens.github.io/lastq
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/pdimens/lastq
