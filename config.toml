@@ -4,7 +4,7 @@ theme = "tanuki"
 build_search_index = true
 
 [markdown]
-highlight_code = true
+highlighting = true
 highlight_theme = "css"
 
 [extra]
