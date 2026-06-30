@@ -10,7 +10,7 @@ can be inferred as having originated from the same original DNA molecule. Differ
 If the sequences with the same barcode would map near the same genomic region during sequence alignment, we would know that 
 each of those reads originated from **a single DNA fragment from a single homologous chromosome from a single cell**, which is effectively **built-in phase information**.
 
-![simplified overview of linked reads](/static/linked_reads.svg)
+![simplified overview of linked reads](/static/linked_reads.png)
 
 ### What do they look like?
 Linked-read sequence data appears as you might expect it, encoded in a FASTQ file. The first processing step of

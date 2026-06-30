@@ -7,7 +7,7 @@ One of the presently available commercial linked-read options. TELLseq data is v
 barcode is 18bp long and contained in the $I1$ read that Illumina provides with the standard $R1$ and $R2$ reads. The
 barcode gets appended in the read header using a colon (`:`).
 
-![TELLseq FASTQ data format](/static/lr_tellseq.svg)
+![TELLseq FASTQ data format](/static/lr_tellseq.png)
 
 - barcode is the first 18bp of the I1 read 
 - barcode is appended to sequence header

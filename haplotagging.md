@@ -10,7 +10,7 @@ the other two ("B" and "D") are the first 12bp of the $I2$ read, both of which a
 Because of this segment design, there are $96^4$ (~84 million) possible barcode combinations (~900,000 per sample). 
 The barcodes are stored in the sequence header under the `BX:Z` SAM tag, recoded in their "`ACBD`" format.
 
-![Haplotagging data format](/static/lr_haplotagging.svg)
+![Haplotagging data format](/static/lr_haplotagging.png)
 
 - 4 barcode segments
   - `A` segment is the first 6bp of the $I1$ read
